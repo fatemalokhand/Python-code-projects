@@ -1,6 +1,3 @@
-# Full name: Fatema Anishbhai Lokhandwala
-# Student number: 101259465
-
 # Importing the system library
 import sys
 
